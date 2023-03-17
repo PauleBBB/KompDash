@@ -16,20 +16,20 @@ from vega_datasets import data
 #
 # Code to import  the data goes here
 # Cache the dataframe so it's only loaded once
-@st.cache_data
+@st.experimental_memo
 def load_data():
     job_data = pd.read_csv("job_data.csv", sep=";")
 
     return job_data
 
-@st.cache_data
+@st.experimental_memo
 def load_geo():
     polygons = requests.get(
     "https://raw.githubusercontent.com/isellsoap/deutschlandGeoJSON/main/4_kreise/2_hoch.geo.json"
     ).json()
     return polygons
 
-@st.cache_data
+@st.experimental_memo
 def load_jobs():
     Jobs = data.iowa_electricity()
     Jobs = Jobs.replace("Fossil Fuels", "Altenpfleger")
