@@ -1,0 +1,61 @@
+﻿Job;Kompetenz_Begriff;Kompetenzlevel;Relevanz
+Arzt- und Praxishilfe;Zahnmedizin;KOMPETENZ_LVL_2;0.9875
+Arzt- und Praxishilfe;Patientenaufnahme;KOMPETENZ_LVL_2;0.975
+Arzt- und Praxishilfe;Blutabnahme;KOMPETENZ_LVL_2;0.9625
+Arzt- und Praxishilfe;Podologie;KOMPETENZ_LVL_2;0.95
+Arzt- und Praxishilfe;Patientenbetreuung;KOMPETENZ_LVL_1;0.9375
+Arzt- und Praxishilfe;Allgemeinmedizin;KOMPETENZ_LVL_1;0.925
+Arzt- und Praxishilfe;Augenheilkunde;KOMPETENZ_LVL_2;0.9
+Arzt- und Praxishilfe;Chirurgie;KOMPETENZ_LVL_2;0.8875
+Arzt- und Praxishilfe;Arbeitsmedizin;KOMPETENZ_LVL_2;0.875
+Arzt- und Praxishilfe;Orthopädie;KOMPETENZ_LVL_2;0.85
+Arzt- und Praxishilfe;Radiologie;KOMPETENZ_LVL_2;0.8375
+Arzt- und Praxishilfe;Krankenpflege;KOMPETENZ_LVL_1;0.825
+Arzt- und Praxishilfe;Krankenhausbau;KOMPETENZ_LVL_2;0.8125
+Arzt- und Praxishilfe;Kassenabrechnung;KOMPETENZ_LVL_2;0.8
+Arzt- und Praxishilfe;Frauenheilkunde und Geburtshilfe;KOMPETENZ_LVL_2;0.7875
+Arzt- und Praxishilfe;Terminkoordination;KOMPETENZ_LVL_2;0.7625
+Arzt- und Praxishilfe;Innere Medizin;KOMPETENZ_LVL_2;0.75
+Arzt- und Praxishilfe;Psychiatrie;KOMPETENZ_LVL_2;0.7375
+Arzt- und Praxishilfe;Branchenkenntnisse Sozialbereich und Haushaltsführung;KOMPETENZ_LVL_2;0.725
+Arzt- und Praxishilfe;Freundlichkeit;KOMPETENZ_LVL_0;0.7125
+Human- und Zahnmedizin;Innere Medizin;KOMPETENZ_LVL_2;0.9872
+Human- und Zahnmedizin;Geburtshilfe;KOMPETENZ_LVL_1;0.9744
+Human- und Zahnmedizin;Frauenheilkunde und Geburtshilfe;KOMPETENZ_LVL_2;0.9359
+Human- und Zahnmedizin;Anästhesiologie;KOMPETENZ_LVL_2;0.8975
+Human- und Zahnmedizin;Notfallmedizin;KOMPETENZ_LVL_2;0.8718
+Human- und Zahnmedizin;Kinderheilkunde;KOMPETENZ_LVL_2;0.8462
+Human- und Zahnmedizin;Sonografie;KOMPETENZ_LVL_2;0.8334
+Human- und Zahnmedizin;Palliativmedizin;KOMPETENZ_LVL_2;0.8077
+Human- und Zahnmedizin;Schmerztherapie;KOMPETENZ_LVL_2;0.7949
+Human- und Zahnmedizin;Endoskopie;KOMPETENZ_LVL_1;0.7821
+Human- und Zahnmedizin;Chirurgie;KOMPETENZ_LVL_2;0.7565
+Human- und Zahnmedizin;Sozialmedizin;KOMPETENZ_LVL_2;0.718
+Human- und Zahnmedizin;Urologie;KOMPETENZ_LVL_2;0.6924
+Human- und Zahnmedizin;Krankenhausbau;KOMPETENZ_LVL_2;0.6667
+Human- und Zahnmedizin;Psychiatrie;KOMPETENZ_LVL_2;0.6539
+Human- und Zahnmedizin;Neurologie;KOMPETENZ_LVL_2;0.6411
+Human- und Zahnmedizin;Geriatrie;KOMPETENZ_LVL_2;0.6283
+Human- und Zahnmedizin;Humanmedizin;KOMPETENZ_LVL_1;0.6154
+Human- und Zahnmedizin;Allgemeinmedizin;KOMPETENZ_LVL_1;0.6026
+Human- und Zahnmedizin;Radiologie;KOMPETENZ_LVL_2;0.5642
+Altenpflege;Altenpflege;KOMPETENZ_LVL_1;0.9837
+Altenpflege;Krankenpflege;KOMPETENZ_LVL_1;0.9673
+Altenpflege;Pflegedokumentation;KOMPETENZ_LVL_2;0.9509
+Altenpflege;Angehörigenberatung;KOMPETENZ_LVL_2;0.9345
+Altenpflege;Pflegemanagement;KOMPETENZ_LVL_1;0.9345
+Altenpflege;Aktivierung in der Pflege;KOMPETENZ_LVL_1;0.9017
+Altenpflege;Verabreichen von Medikamenten;KOMPETENZ_LVL_2;0.8853
+Altenpflege;Branchenkenntnisse Sozialbereich und Haushaltsführung;KOMPETENZ_LVL_2;0.8689
+Altenpflege;Pflegemaßnahmen;KOMPETENZ_LVL_1;0.8525
+Altenpflege;Ambulanzpflege;KOMPETENZ_LVL_3;0.8197
+Altenpflege;Intensivpflege;KOMPETENZ_LVL_3;0.8033
+Altenpflege;Betreuung von pflegebedürftigen Menschen;KOMPETENZ_LVL_1;0.8033
+Altenpflege;Gerontopsychiatrie;KOMPETENZ_LVL_3;0.8033
+Altenpflege;Blutdruck messen;KOMPETENZ_LVL_2;0.7541
+Altenpflege;Kinder- und Jugendlichenpflege;KOMPETENZ_LVL_1;0.7378
+Altenpflege;Freundlichkeit;KOMPETENZ_LVL_0;0.7214
+Altenpflege;Aufgeschlossenheit;KOMPETENZ_LVL_0;0.705
+Altenpflege;Körperliche Ausdauer;KOMPETENZ_LVL_1;0.6886
+Altenpflege;Kenntnisse in Sozialarbeit und -pädagogik;KOMPETENZ_LVL_0;0.6886
+Altenpflege;Krankenhausbau;KOMPETENZ_LVL_2;0.6558
