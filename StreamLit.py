@@ -6,7 +6,8 @@ st.set_page_config(layout="wide")
 import requests
 import pandas as pd
 import numpy as np
-import plotly.express as px
+#import plotly.express as px
+import plotly as px
 import streamlit as st
 
 from vega_datasets import data
@@ -122,7 +123,7 @@ with st.container():
         )
 
 
-    fig = px.choropleth(
+    fig = px.express.choropleth(
         df,
         geojson=polygons,
         locations="Relevanz",
