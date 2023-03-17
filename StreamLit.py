@@ -145,7 +145,7 @@ with st.container():
         x="Jahr:T",
         y=alt.Y("Stellenanzeigen:Q", stack=None),
         color="job:N")
-    st.altair_chart(alt_chart, theme=None, use_container_width=True)
+    st.altair_chart(alt_chart, use_container_width=True)
 
 
 
