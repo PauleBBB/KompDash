@@ -96,7 +96,7 @@ with st.container():
     source = source[["Kompetenz_Begriff", "Relevanz"]]
 
     if datenbasis:
-        st.dataframe(source, use_container_width=True)
+        st.dataframe(source)
     komp_chart = alt.Chart(source).mark_bar().encode(
            # x='sum(yield):Q',
             x='Relevanz:Q',
