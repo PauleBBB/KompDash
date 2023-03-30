@@ -1,0 +1,226 @@
+;KOMPETENZBEREICH;Kompetenz;Kompetenzlevel;Kompetenz_Begriff;Gruppe;Relevanz;Beruf;Level
+0;Gesundheit, Körper- und Schönheitspflege;Nicht-medizinische Orthoptikkenntnisse;KOMPETENZ_LVL_1;Kontaktlinsenanpassung;Gesundheit, Körper- und Schönheitspflege;97.02970297029702;Rank_Total 825_Medizin-_Orthopädie- und Rehatechnik;ISCO_3Steller
+1;Gesundheit, Körper- und Schönheitspflege;Nicht-medizinische Orthoptikkenntnisse;KOMPETENZ_LVL_1;Optometrie;Gesundheit, Körper- und Schönheitspflege;95.04950495049505;Rank_Total 825_Medizin-_Orthopädie- und Rehatechnik;ISCO_3Steller
+2;Gesundheit, Körper- und Schönheitspflege;Nicht-medizinische Orthoptikkenntnisse;KOMPETENZ_LVL_2;Brillenanfertigung;Gesundheit, Körper- und Schönheitspflege;93.06930693069307;Rank_Total 825_Medizin-_Orthopädie- und Rehatechnik;ISCO_3Steller
+3;Gesundheit, Körper- und Schönheitspflege;Nicht-medizinische Orthoptikkenntnisse;KOMPETENZ_LVL_2;Sehtest;Gesundheit, Körper- und Schönheitspflege;92.07920792079207;Rank_Total 825_Medizin-_Orthopädie- und Rehatechnik;ISCO_3Steller
+4;Gesundheit, Körper- und Schönheitspflege;Zahntechnikkenntnisse;KOMPETENZ_LVL_2;Zahnersatz;Gesundheit, Körper- und Schönheitspflege;96.03960396039604;Rank_Total 825_Medizin-_Orthopädie- und Rehatechnik;ISCO_3Steller
+5;Gesundheit, Körper- und Schönheitspflege;Zahntechnikkenntnisse;KOMPETENZ_LVL_1;Herstellung und Anpassung von Zahnprothesen;Gesundheit, Körper- und Schönheitspflege;94.05940594059406;Rank_Total 825_Medizin-_Orthopädie- und Rehatechnik;ISCO_3Steller
+6;Gesundheit, Körper- und Schönheitspflege;sonstige;KOMPETENZ_LVL_1;Hörgerätetechnik;Gesundheit, Körper- und Schönheitspflege;98.01980198019803;Rank_Total 825_Medizin-_Orthopädie- und Rehatechnik;ISCO_3Steller
+7;Wissenschaft und Forschung;sonstige;KOMPETENZ_LVL_3;Feinoptik;Wissenschaft und Forschung;89.10891089108911;Rank_Total 825_Medizin-_Orthopädie- und Rehatechnik;ISCO_3Steller
+8;Kognitive Fähigkeiten und Problemlösungskompetenzen;überfachlich;KOMPETENZ_LVL_1;Schnelle Auffassungsgabe;überfachlich;9.900990099009903;Rank_Total 825_Medizin-_Orthopädie- und Rehatechnik;ISCO_3Steller
+9;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Dynamische Persönlichkeit;überfachlich;14.851485148514854;Rank_Total 825_Medizin-_Orthopädie- und Rehatechnik;ISCO_3Steller
+10;Soziale Kompetenzen;überfachlich;KOMPETENZ_LVL_1;Verhandlungsstärke;überfachlich;15.841584158415841;Rank_Total 825_Medizin-_Orthopädie- und Rehatechnik;ISCO_3Steller
+11;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Beharrlichkeit;überfachlich;23.76237623762377;Rank_Total 825_Medizin-_Orthopädie- und Rehatechnik;ISCO_3Steller
+12;Kognitive Fähigkeiten und Problemlösungskompetenzen;überfachlich;KOMPETENZ_LVL_1;Neugier;überfachlich;30.693069306930695;Rank_Total 825_Medizin-_Orthopädie- und Rehatechnik;ISCO_3Steller
+13;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Ehrgeiz;überfachlich;35.64356435643565;Rank_Total 825_Medizin-_Orthopädie- und Rehatechnik;ISCO_3Steller
+14;Soziale Kompetenzen;überfachlich;KOMPETENZ_LVL_1;Höflichkeit;überfachlich;36.633663366336634;Rank_Total 825_Medizin-_Orthopädie- und Rehatechnik;ISCO_3Steller
+15;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Geduld;überfachlich;52.475247524752476;Rank_Total 825_Medizin-_Orthopädie- und Rehatechnik;ISCO_3Steller
+16;Soziale Kompetenzen;überfachlich;KOMPETENZ_LVL_1;Gerechtigkeitssinn;überfachlich;45.54455445544554;Rank_Total 825_Medizin-_Orthopädie- und Rehatechnik;ISCO_3Steller
+17;Kognitive Fähigkeiten und Problemlösungskompetenzen;überfachlich;KOMPETENZ_LVL_1;Umsicht;überfachlich;47.524752475247524;Rank_Total 825_Medizin-_Orthopädie- und Rehatechnik;ISCO_3Steller
+18;Soziale Kompetenzen;überfachlich;KOMPETENZ_LVL_1;Dokumentation;überfachlich;3.960396039603964;Rank_Total 825_Medizin-_Orthopädie- und Rehatechnik;ISCO_3Steller
+19;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Qualitätsbewusstsein;überfachlich;53.46534653465346;Rank_Total 825_Medizin-_Orthopädie- und Rehatechnik;ISCO_3Steller
+20;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Sorgfalt;überfachlich;54.45544554455446;Rank_Total 825_Medizin-_Orthopädie- und Rehatechnik;ISCO_3Steller
+21;Kognitive Fähigkeiten und Problemlösungskompetenzen;überfachlich;KOMPETENZ_LVL_1;Entscheidungsfähigkeit;überfachlich;64.35643564356435;Rank_Total 825_Medizin-_Orthopädie- und Rehatechnik;ISCO_3Steller
+22;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Kollegialität;überfachlich;68.31683168316832;Rank_Total 825_Medizin-_Orthopädie- und Rehatechnik;ISCO_3Steller
+23;Soziale Kompetenzen;überfachlich;KOMPETENZ_LVL_1;Selbstbewusstsein;überfachlich;43.56435643564357;Rank_Total 825_Medizin-_Orthopädie- und Rehatechnik;ISCO_3Steller
+24;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Flexibilität;überfachlich;2.9702970297029765;Rank_Total 825_Medizin-_Orthopädie- und Rehatechnik;ISCO_3Steller
+0;Gesundheit, Körper- und Schönheitspflege;Gesundheits- und Krankenpflege;KOMPETENZ_LVL_1;Altenpflege;Gesundheit, Körper- und Schönheitspflege;96.66666666666667;Rank_Total 821_Altenpflege;ISCO_3Steller
+1;Gesundheit, Körper- und Schönheitspflege;Gesundheits- und Krankenpflege;KOMPETENZ_LVL_1;Krankenpflege;Gesundheit, Körper- und Schönheitspflege;95.0;Rank_Total 821_Altenpflege;ISCO_3Steller
+2;Gesundheit, Körper- und Schönheitspflege;Gesundheits- und Krankenpflege;KOMPETENZ_LVL_2;Pflegedokumentation;Gesundheit, Körper- und Schönheitspflege;93.33333333333333;Rank_Total 821_Altenpflege;ISCO_3Steller
+3;Gesundheit, Körper- und Schönheitspflege;Gesundheits- und Krankenpflege;KOMPETENZ_LVL_2;Blutdruck messen;Gesundheit, Körper- und Schönheitspflege;75.0;Rank_Total 821_Altenpflege;ISCO_3Steller
+4;Gesundheit, Körper- und Schönheitspflege;Gesundheits- und Krankenpflege;KOMPETENZ_LVL_1;Aktivierung in der Pflege;Gesundheit, Körper- und Schönheitspflege;90.0;Rank_Total 821_Altenpflege;ISCO_3Steller
+5;Gesundheit, Körper- und Schönheitspflege;Gesundheits- und Krankenpflege;KOMPETENZ_LVL_1;Kinder- und Jugendlichenpflege;Gesundheit, Körper- und Schönheitspflege;78.33333333333333;Rank_Total 821_Altenpflege;ISCO_3Steller
+6;Gesundheit, Körper- und Schönheitspflege;Gesundheits- und Krankenpflege;KOMPETENZ_LVL_2;Verabreichen von Medikamenten;Gesundheit, Körper- und Schönheitspflege;86.66666666666667;Rank_Total 821_Altenpflege;ISCO_3Steller
+7;Gesundheit, Körper- und Schönheitspflege;Gesundheits- und Krankenpflege;KOMPETENZ_LVL_3;Intensivpflege;Gesundheit, Körper- und Schönheitspflege;83.33333333333333;Rank_Total 821_Altenpflege;ISCO_3Steller
+8;Gesundheit, Körper- und Schönheitspflege;Gesundheits- und Krankenpflege;KOMPETENZ_LVL_1;Pflegemanagement;Gesundheit, Körper- und Schönheitspflege;83.33333333333333;Rank_Total 821_Altenpflege;ISCO_3Steller
+9;Gesundheit, Körper- und Schönheitspflege;Gesundheits- und Krankenpflege;KOMPETENZ_LVL_1;Pflegemaßnahmen;Gesundheit, Körper- und Schönheitspflege;81.66666666666666;Rank_Total 821_Altenpflege;ISCO_3Steller
+10;Gesundheit, Körper- und Schönheitspflege;Gesundheits- und Krankenpflege;KOMPETENZ_LVL_3;Ambulanzpflege;Gesundheit, Körper- und Schönheitspflege;80.0;Rank_Total 821_Altenpflege;ISCO_3Steller
+11;Gesundheit, Körper- und Schönheitspflege;sonstige;KOMPETENZ_LVL_3;Gerontopsychiatrie;Gesundheit, Körper- und Schönheitspflege;76.66666666666666;Rank_Total 821_Altenpflege;ISCO_3Steller
+12;Soziales, Haushalt, Erziehung, Bildung, Religion;sonstige;KOMPETENZ_LVL_2;Angehörigenberatung;Soziales, Haushalt, Erziehung, Bildung, Religion;91.66666666666667;Rank_Total 821_Altenpflege;ISCO_3Steller
+13;Bereichsübergreifende Kompetenzen;sonstige;KOMPETENZ_LVL_2;Branchenkenntnisse Sozialbereich und Haushaltsführung;Bereichsübergreifende Kompetenzen;88.33333333333333;Rank_Total 821_Altenpflege;ISCO_3Steller
+14;Soziale Kompetenzen;überfachlich;KOMPETENZ_LVL_1;Verhandlungsstärke;überfachlich;13.333333333333329;Rank_Total 821_Altenpflege;ISCO_3Steller
+15;Körperliche Eigenschaften;überfachlich;KOMPETENZ_LVL_1;Körperliche Ausdauer;überfachlich;66.66666666666666;Rank_Total 821_Altenpflege;ISCO_3Steller
+16;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Geduld;überfachlich;61.666666666666664;Rank_Total 821_Altenpflege;ISCO_3Steller
+17;Soziale Kompetenzen;überfachlich;KOMPETENZ_LVL_1;Dokumentation;überfachlich;51.666666666666664;Rank_Total 821_Altenpflege;ISCO_3Steller
+18;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Flexibilität;überfachlich;45.0;Rank_Total 821_Altenpflege;ISCO_3Steller
+19;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Sorgfalt;überfachlich;45.0;Rank_Total 821_Altenpflege;ISCO_3Steller
+20;Soziale Kompetenzen;überfachlich;KOMPETENZ_LVL_1;Gerechtigkeitssinn;überfachlich;40.0;Rank_Total 821_Altenpflege;ISCO_3Steller
+21;Kognitive Fähigkeiten und Problemlösungskompetenzen;überfachlich;KOMPETENZ_LVL_1;Neugier;überfachlich;31.666666666666657;Rank_Total 821_Altenpflege;ISCO_3Steller
+22;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Ehrgeiz;überfachlich;21.666666666666657;Rank_Total 821_Altenpflege;ISCO_3Steller
+23;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Dynamische Persönlichkeit;überfachlich;15.0;Rank_Total 821_Altenpflege;ISCO_3Steller
+24;Kognitive Fähigkeiten und Problemlösungskompetenzen;überfachlich;KOMPETENZ_LVL_1;Entscheidungsfähigkeit;überfachlich;0.0;Rank_Total 821_Altenpflege;ISCO_3Steller
+0;Gesundheit, Körper- und Schönheitspflege;Pharmazeutikkenntnisse;KOMPETENZ_LVL_2;Pharma-Außendienst;Gesundheit, Körper- und Schönheitspflege;93.06930693069307;Rank_Total 818_Pharmazie;ISCO_3Steller
+1;Gesundheit, Körper- und Schönheitspflege;Pharmazeutikkenntnisse;KOMPETENZ_LVL_1;Pharmazeutische Kundenberatung;Gesundheit, Körper- und Schönheitspflege;89.10891089108911;Rank_Total 818_Pharmazie;ISCO_3Steller
+2;Wissenschaft und Forschung;Wissenschaftliches Fachwissen Naturwissenschaften;KOMPETENZ_LVL_1;Pharmazie;Wissenschaft und Forschung;97.02970297029702;Rank_Total 818_Pharmazie;ISCO_3Steller
+3;Wissenschaft und Forschung;Wissenschaftliches Fachwissen Naturwissenschaften;KOMPETENZ_LVL_2;Klinische Pharmazie;Wissenschaft und Forschung;95.04950495049505;Rank_Total 818_Pharmazie;ISCO_3Steller
+4;Wissenschaft und Forschung;Wissenschaftliches Fachwissen Naturwissenschaften;KOMPETENZ_LVL_2;Pharmazeutische Technologie;Wissenschaft und Forschung;91.08910891089108;Rank_Total 818_Pharmazie;ISCO_3Steller
+5;Wissenschaft und Forschung;Wissenschaftliches Fachwissen Naturwissenschaften;KOMPETENZ_LVL_2;Pharmakologie;Wissenschaft und Forschung;90.0990099009901;Rank_Total 818_Pharmazie;ISCO_3Steller
+6;Bereichsübergreifende Kompetenzen;sonstige;KOMPETENZ_LVL_3;Grundlagen des Arzneimittelgesetzes;Bereichsübergreifende Kompetenzen;98.01980198019803;Rank_Total 818_Pharmazie;ISCO_3Steller
+7;Gesundheit, Körper- und Schönheitspflege;sonstige;KOMPETENZ_LVL_1;Gesundheitspolitik;Gesundheit, Körper- und Schönheitspflege;96.03960396039604;Rank_Total 818_Pharmazie;ISCO_3Steller
+8;Bereichsübergreifende Kompetenzen;sonstige;KOMPETENZ_LVL_2;Medikamente und Heilmittel;Bereichsübergreifende Kompetenzen;94.05940594059406;Rank_Total 818_Pharmazie;ISCO_3Steller
+9;Bereichsübergreifende Kompetenzen;sonstige;KOMPETENZ_LVL_3;Pharmabranche;Bereichsübergreifende Kompetenzen;92.07920792079207;Rank_Total 818_Pharmazie;ISCO_3Steller
+10;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Dynamische Persönlichkeit;überfachlich;8.910891089108915;Rank_Total 818_Pharmazie;ISCO_3Steller
+11;Kognitive Fähigkeiten und Problemlösungskompetenzen;überfachlich;KOMPETENZ_LVL_1;Schnelle Auffassungsgabe;überfachlich;9.900990099009903;Rank_Total 818_Pharmazie;ISCO_3Steller
+12;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Qualitätsbewusstsein;überfachlich;10.89108910891089;Rank_Total 818_Pharmazie;ISCO_3Steller
+13;Soziale Kompetenzen;überfachlich;KOMPETENZ_LVL_1;Dokumentation;überfachlich;11.881188118811878;Rank_Total 818_Pharmazie;ISCO_3Steller
+14;Kognitive Fähigkeiten und Problemlösungskompetenzen;überfachlich;KOMPETENZ_LVL_1;Neugier;überfachlich;18.811881188118818;Rank_Total 818_Pharmazie;ISCO_3Steller
+15;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Beharrlichkeit;überfachlich;24.752475247524757;Rank_Total 818_Pharmazie;ISCO_3Steller
+16;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Ehrgeiz;überfachlich;52.475247524752476;Rank_Total 818_Pharmazie;ISCO_3Steller
+17;Soziale Kompetenzen;überfachlich;KOMPETENZ_LVL_1;Interdisziplinäre Zusammenarbeit;überfachlich;35.64356435643565;Rank_Total 818_Pharmazie;ISCO_3Steller
+18;Soziale Kompetenzen;überfachlich;KOMPETENZ_LVL_1;Glaubwürdigkeit;überfachlich;41.584158415841586;Rank_Total 818_Pharmazie;ISCO_3Steller
+19;Kognitive Fähigkeiten und Problemlösungskompetenzen;überfachlich;KOMPETENZ_LVL_1;Entscheidungsfähigkeit;überfachlich;51.48514851485149;Rank_Total 818_Pharmazie;ISCO_3Steller
+20;Soziale Kompetenzen;überfachlich;KOMPETENZ_LVL_1;Verhandlungsstärke;überfachlich;1.9801980198019749;Rank_Total 818_Pharmazie;ISCO_3Steller
+21;Soziale Kompetenzen;überfachlich;KOMPETENZ_LVL_1;Überzeugungskraft;überfachlich;56.43564356435644;Rank_Total 818_Pharmazie;ISCO_3Steller
+22;Kognitive Fähigkeiten und Problemlösungskompetenzen;überfachlich;KOMPETENZ_LVL_1;Innovatives Denken;überfachlich;77.22772277227723;Rank_Total 818_Pharmazie;ISCO_3Steller
+23;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Sorgfalt;überfachlich;27.72277227722772;Rank_Total 818_Pharmazie;ISCO_3Steller
+24;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Flexibilität;überfachlich;0.0;Rank_Total 818_Pharmazie;ISCO_3Steller
+0;Gesundheit, Körper- und Schönheitspflege;Physikalische Medizin und Rehabilitation;KOMPETENZ_LVL_2;Manuelle Therapie;Gesundheit, Körper- und Schönheitspflege;97.02970297029702;Rank_Total 817_Nicht ärztliche Therapie und Heilkunde;ISCO_3Steller
+1;Gesundheit, Körper- und Schönheitspflege;Physikalische Medizin und Rehabilitation;KOMPETENZ_LVL_2;Krankengymnastik;Gesundheit, Körper- und Schönheitspflege;95.04950495049505;Rank_Total 817_Nicht ärztliche Therapie und Heilkunde;ISCO_3Steller
+2;Gesundheit, Körper- und Schönheitspflege;Physikalische Medizin und Rehabilitation;KOMPETENZ_LVL_1;Physiotherapie;Gesundheit, Körper- und Schönheitspflege;94.05940594059406;Rank_Total 817_Nicht ärztliche Therapie und Heilkunde;ISCO_3Steller
+3;Gesundheit, Körper- und Schönheitspflege;Physikalische Medizin und Rehabilitation;KOMPETENZ_LVL_2;Funktionelle Bewegungslehre;Gesundheit, Körper- und Schönheitspflege;88.11881188118812;Rank_Total 817_Nicht ärztliche Therapie und Heilkunde;ISCO_3Steller
+4;Gesundheit, Körper- und Schönheitspflege;Physikalische Medizin und Rehabilitation;KOMPETENZ_LVL_2;Sportphysiotherapie;Gesundheit, Körper- und Schönheitspflege;91.08910891089108;Rank_Total 817_Nicht ärztliche Therapie und Heilkunde;ISCO_3Steller
+5;Gesundheit, Körper- und Schönheitspflege;Physikalische Medizin und Rehabilitation;KOMPETENZ_LVL_1;Medizinische Trainingstherapie;Gesundheit, Körper- und Schönheitspflege;89.10891089108911;Rank_Total 817_Nicht ärztliche Therapie und Heilkunde;ISCO_3Steller
+6;Gesundheit, Körper- und Schönheitspflege;Therapieformen;KOMPETENZ_LVL_1;Einzeltherapie;Gesundheit, Körper- und Schönheitspflege;90.0990099009901;Rank_Total 817_Nicht ärztliche Therapie und Heilkunde;ISCO_3Steller
+7;Gesundheit, Körper- und Schönheitspflege;Therapieformen;KOMPETENZ_LVL_1;Gruppentherapie;Gesundheit, Körper- und Schönheitspflege;92.07920792079207;Rank_Total 817_Nicht ärztliche Therapie und Heilkunde;ISCO_3Steller
+8;Gesundheit, Körper- und Schönheitspflege;sonstige;KOMPETENZ_LVL_1;Handtherapie;Gesundheit, Körper- und Schönheitspflege;87.12871287128712;Rank_Total 817_Nicht ärztliche Therapie und Heilkunde;ISCO_3Steller
+9;Gesundheit, Körper- und Schönheitspflege;sonstige;KOMPETENZ_LVL_1;Lymphdrainage;Gesundheit, Körper- und Schönheitspflege;98.01980198019803;Rank_Total 817_Nicht ärztliche Therapie und Heilkunde;ISCO_3Steller
+10;Gesundheit, Körper- und Schönheitspflege;sonstige;KOMPETENZ_LVL_1;Sprachtherapie;Gesundheit, Körper- und Schönheitspflege;93.06930693069307;Rank_Total 817_Nicht ärztliche Therapie und Heilkunde;ISCO_3Steller
+11;Zertifikate und Ausbildungsabschlüsse - Gesundheit, Körper- und Schönheitspflege;sonstige;KOMPETENZ_LVL_1;Manuelle-Lymphdrainage-Zertifikat;Zertifikate und Ausbildungsabschlüsse - Gesundheit, Körper- und Schönheitspflege;95.04950495049505;Rank_Total 817_Nicht ärztliche Therapie und Heilkunde;ISCO_3Steller
+12;Soziale Kompetenzen;überfachlich;KOMPETENZ_LVL_1;Verhandlungsstärke;überfachlich;7.920792079207928;Rank_Total 817_Nicht ärztliche Therapie und Heilkunde;ISCO_3Steller
+13;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Sorgfalt;überfachlich;8.910891089108915;Rank_Total 817_Nicht ärztliche Therapie und Heilkunde;ISCO_3Steller
+14;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Beharrlichkeit;überfachlich;17.821782178217816;Rank_Total 817_Nicht ärztliche Therapie und Heilkunde;ISCO_3Steller
+15;Soziale Kompetenzen;überfachlich;KOMPETENZ_LVL_1;Dokumentation;überfachlich;21.78217821782178;Rank_Total 817_Nicht ärztliche Therapie und Heilkunde;ISCO_3Steller
+16;Soziale Kompetenzen;überfachlich;KOMPETENZ_LVL_1;Selbstbewusstsein;überfachlich;23.76237623762377;Rank_Total 817_Nicht ärztliche Therapie und Heilkunde;ISCO_3Steller
+17;Soziale Kompetenzen;überfachlich;KOMPETENZ_LVL_1;Interdisziplinäre Zusammenarbeit;überfachlich;68.31683168316832;Rank_Total 817_Nicht ärztliche Therapie und Heilkunde;ISCO_3Steller
+18;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Dynamische Persönlichkeit;überfachlich;33.66336633663366;Rank_Total 817_Nicht ärztliche Therapie und Heilkunde;ISCO_3Steller
+19;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Flexibilität;überfachlich;39.603960396039604;Rank_Total 817_Nicht ärztliche Therapie und Heilkunde;ISCO_3Steller
+20;Soziale Kompetenzen;überfachlich;KOMPETENZ_LVL_1;Höflichkeit;überfachlich;45.54455445544554;Rank_Total 817_Nicht ärztliche Therapie und Heilkunde;ISCO_3Steller
+21;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Geduld;überfachlich;50.495049504950494;Rank_Total 817_Nicht ärztliche Therapie und Heilkunde;ISCO_3Steller
+22;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Qualitätsbewusstsein;überfachlich;4.950495049504951;Rank_Total 817_Nicht ärztliche Therapie und Heilkunde;ISCO_3Steller
+23;Körperliche Eigenschaften;überfachlich;KOMPETENZ_LVL_1;Körperliche Ausdauer;überfachlich;26.73267326732673;Rank_Total 817_Nicht ärztliche Therapie und Heilkunde;ISCO_3Steller
+24;Kognitive Fähigkeiten und Problemlösungskompetenzen;überfachlich;KOMPETENZ_LVL_1;Neugier;überfachlich;0.0;Rank_Total 817_Nicht ärztliche Therapie und Heilkunde;ISCO_3Steller
+0;Gesundheit, Körper- und Schönheitspflege;Psychologiekenntnisse;KOMPETENZ_LVL_1;Psychodiagnostik;Gesundheit, Körper- und Schönheitspflege;97.02970297029702;Rank_Total 816_Psychologie_nichtärztl. Psychotherapie;ISCO_3Steller
+1;Gesundheit, Körper- und Schönheitspflege;Psychologiekenntnisse;KOMPETENZ_LVL_3;Neuropsychologische Diagnostik;Gesundheit, Körper- und Schönheitspflege;96.03960396039604;Rank_Total 816_Psychologie_nichtärztl. Psychotherapie;ISCO_3Steller
+2;Wissenschaft und Forschung;Wissenschaftliches Fachwissen Humanwissenschaft;KOMPETENZ_LVL_2;Neuropsychologie;Wissenschaft und Forschung;98.01980198019803;Rank_Total 816_Psychologie_nichtärztl. Psychotherapie;ISCO_3Steller
+3;Wissenschaft und Forschung;Wissenschaftliches Fachwissen Humanwissenschaft;KOMPETENZ_LVL_1;Psychologie;Wissenschaft und Forschung;95.04950495049505;Rank_Total 816_Psychologie_nichtärztl. Psychotherapie;ISCO_3Steller
+4;Wissenschaft und Forschung;Wissenschaftliches Fachwissen Humanwissenschaft;KOMPETENZ_LVL_2;Klinische Psychologie;Wissenschaft und Forschung;93.06930693069307;Rank_Total 816_Psychologie_nichtärztl. Psychotherapie;ISCO_3Steller
+5;Gesundheit, Körper- und Schönheitspflege;sonstige;KOMPETENZ_LVL_2;Verhaltenstherapie;Gesundheit, Körper- und Schönheitspflege;94.05940594059406;Rank_Total 816_Psychologie_nichtärztl. Psychotherapie;ISCO_3Steller
+6;Tourismus, Gastgewerbe, Freizeitwirtschaft, Sport;sonstige;KOMPETENZ_LVL_2;Housekeeping-Leitung;Tourismus, Gastgewerbe, Freizeitwirtschaft, Sport;92.07920792079207;Rank_Total 816_Psychologie_nichtärztl. Psychotherapie;ISCO_3Steller
+7;Gesundheit, Körper- und Schönheitspflege;sonstige;KOMPETENZ_LVL_2;Familientherapie;Gesundheit, Körper- und Schönheitspflege;91.08910891089108;Rank_Total 816_Psychologie_nichtärztl. Psychotherapie;ISCO_3Steller
+8;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Dynamische Persönlichkeit;überfachlich;12.87128712871288;Rank_Total 816_Psychologie_nichtärztl. Psychotherapie;ISCO_3Steller
+9;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Ehrgeiz;überfachlich;13.861386138613867;Rank_Total 816_Psychologie_nichtärztl. Psychotherapie;ISCO_3Steller
+10;Soziale Kompetenzen;überfachlich;KOMPETENZ_LVL_1;Selbstbewusstsein;überfachlich;19.801980198019805;Rank_Total 816_Psychologie_nichtärztl. Psychotherapie;ISCO_3Steller
+11;Kognitive Fähigkeiten und Problemlösungskompetenzen;überfachlich;KOMPETENZ_LVL_1;Entscheidungsfähigkeit;überfachlich;22.772277227722768;Rank_Total 816_Psychologie_nichtärztl. Psychotherapie;ISCO_3Steller
+12;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Flexibilität;überfachlich;23.76237623762377;Rank_Total 816_Psychologie_nichtärztl. Psychotherapie;ISCO_3Steller
+13;Körperliche Eigenschaften;überfachlich;KOMPETENZ_LVL_1;Körperliche Ausdauer;überfachlich;27.72277227722772;Rank_Total 816_Psychologie_nichtärztl. Psychotherapie;ISCO_3Steller
+14;Soziale Kompetenzen;überfachlich;KOMPETENZ_LVL_1;Dokumentation;überfachlich;31.683168316831683;Rank_Total 816_Psychologie_nichtärztl. Psychotherapie;ISCO_3Steller
+15;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Kollegialität;überfachlich;39.603960396039604;Rank_Total 816_Psychologie_nichtärztl. Psychotherapie;ISCO_3Steller
+16;Soziale Kompetenzen;überfachlich;KOMPETENZ_LVL_1;Konfliktfähigkeit;überfachlich;35.64356435643565;Rank_Total 816_Psychologie_nichtärztl. Psychotherapie;ISCO_3Steller
+17;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Geduld;überfachlich;36.633663366336634;Rank_Total 816_Psychologie_nichtärztl. Psychotherapie;ISCO_3Steller
+18;Soziale Kompetenzen;überfachlich;KOMPETENZ_LVL_1;Verhandlungsstärke;überfachlich;9.900990099009903;Rank_Total 816_Psychologie_nichtärztl. Psychotherapie;ISCO_3Steller
+19;Soziale Kompetenzen;überfachlich;KOMPETENZ_LVL_1;Höflichkeit;überfachlich;56.43564356435644;Rank_Total 816_Psychologie_nichtärztl. Psychotherapie;ISCO_3Steller
+20;Soziale Kompetenzen;überfachlich;KOMPETENZ_LVL_1;Gepflegtes Äußeres;überfachlich;60.396039603960396;Rank_Total 816_Psychologie_nichtärztl. Psychotherapie;ISCO_3Steller
+21;Soziale Kompetenzen;überfachlich;KOMPETENZ_LVL_1;Interdisziplinäre Zusammenarbeit;überfachlich;67.32673267326733;Rank_Total 816_Psychologie_nichtärztl. Psychotherapie;ISCO_3Steller
+22;Soziale Kompetenzen;überfachlich;KOMPETENZ_LVL_1;Gesprächsführung;überfachlich;74.25742574257426;Rank_Total 816_Psychologie_nichtärztl. Psychotherapie;ISCO_3Steller
+23;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Beharrlichkeit;überfachlich;34.65346534653466;Rank_Total 816_Psychologie_nichtärztl. Psychotherapie;ISCO_3Steller
+24;Kognitive Fähigkeiten und Problemlösungskompetenzen;überfachlich;KOMPETENZ_LVL_1;Neugier;überfachlich;0.9900990099009874;Rank_Total 816_Psychologie_nichtärztl. Psychotherapie;ISCO_3Steller
+0;Gesundheit, Körper- und Schönheitspflege;Medizinisches Fachwissen;KOMPETENZ_LVL_2;Innere Medizin;Gesundheit, Körper- und Schönheitspflege;98.01980198019803;Rank_Total 814_Human- und Zahnmedizin;ISCO_3Steller
+1;Gesundheit, Körper- und Schönheitspflege;Medizinisches Fachwissen;KOMPETENZ_LVL_2;Sozialmedizin;Gesundheit, Körper- und Schönheitspflege;82.17821782178217;Rank_Total 814_Human- und Zahnmedizin;ISCO_3Steller
+2;Gesundheit, Körper- und Schönheitspflege;Medizinisches Fachwissen;KOMPETENZ_LVL_2;Schmerztherapie;Gesundheit, Körper- und Schönheitspflege;83.16831683168317;Rank_Total 814_Human- und Zahnmedizin;ISCO_3Steller
+3;Gesundheit, Körper- und Schönheitspflege;Medizinisches Fachwissen;KOMPETENZ_LVL_2;Palliativmedizin;Gesundheit, Körper- und Schönheitspflege;84.15841584158416;Rank_Total 814_Human- und Zahnmedizin;ISCO_3Steller
+4;Gesundheit, Körper- und Schönheitspflege;Medizinisches Fachwissen;KOMPETENZ_LVL_3;Viszeralchirurgie;Gesundheit, Körper- und Schönheitspflege;85.14851485148515;Rank_Total 814_Human- und Zahnmedizin;ISCO_3Steller
+5;Gesundheit, Körper- und Schönheitspflege;Medizinisches Fachwissen;KOMPETENZ_LVL_2;Anästhesiologie;Gesundheit, Körper- und Schönheitspflege;87.12871287128712;Rank_Total 814_Human- und Zahnmedizin;ISCO_3Steller
+6;Gesundheit, Körper- und Schönheitspflege;Medizinisches Fachwissen;KOMPETENZ_LVL_2;Kinderheilkunde;Gesundheit, Körper- und Schönheitspflege;89.10891089108911;Rank_Total 814_Human- und Zahnmedizin;ISCO_3Steller
+7;Gesundheit, Körper- und Schönheitspflege;Medizinisches Fachwissen;KOMPETENZ_LVL_3;Pneumologie;Gesundheit, Körper- und Schönheitspflege;90.0990099009901;Rank_Total 814_Human- und Zahnmedizin;ISCO_3Steller
+8;Gesundheit, Körper- und Schönheitspflege;Medizinisches Fachwissen;KOMPETENZ_LVL_3;Neonatologie;Gesundheit, Körper- und Schönheitspflege;85.14851485148515;Rank_Total 814_Human- und Zahnmedizin;ISCO_3Steller
+9;Gesundheit, Körper- und Schönheitspflege;Medizinisches Fachwissen;KOMPETENZ_LVL_3;Unfallchirurgie;Gesundheit, Körper- und Schönheitspflege;92.07920792079207;Rank_Total 814_Human- und Zahnmedizin;ISCO_3Steller
+10;Gesundheit, Körper- und Schönheitspflege;Medizinisches Fachwissen;KOMPETENZ_LVL_2;Notfallmedizin;Gesundheit, Körper- und Schönheitspflege;93.06930693069307;Rank_Total 814_Human- und Zahnmedizin;ISCO_3Steller
+11;Gesundheit, Körper- und Schönheitspflege;Medizinisches Fachwissen;KOMPETENZ_LVL_2;Frauenheilkunde und Geburtshilfe;Gesundheit, Körper- und Schönheitspflege;93.06930693069307;Rank_Total 814_Human- und Zahnmedizin;ISCO_3Steller
+12;Gesundheit, Körper- und Schönheitspflege;Medizinisches Fachwissen;KOMPETENZ_LVL_3;Gastroenterologie;Gesundheit, Körper- und Schönheitspflege;95.04950495049505;Rank_Total 814_Human- und Zahnmedizin;ISCO_3Steller
+13;Gesundheit, Körper- und Schönheitspflege;Medizinisches Fachwissen;KOMPETENZ_LVL_3;Intensivmedizin;Gesundheit, Körper- und Schönheitspflege;96.03960396039604;Rank_Total 814_Human- und Zahnmedizin;ISCO_3Steller
+14;Gesundheit, Körper- und Schönheitspflege;Medizinisches Fachwissen;KOMPETENZ_LVL_3;Kardiologie;Gesundheit, Körper- und Schönheitspflege;91.08910891089108;Rank_Total 814_Human- und Zahnmedizin;ISCO_3Steller
+15;Gesundheit, Körper- und Schönheitspflege;sonstige;KOMPETENZ_LVL_2;Sonografie;Gesundheit, Körper- und Schönheitspflege;88.11881188118812;Rank_Total 814_Human- und Zahnmedizin;ISCO_3Steller
+16;Gesundheit, Körper- und Schönheitspflege;sonstige;KOMPETENZ_LVL_1;Geburtshilfe;Gesundheit, Körper- und Schönheitspflege;97.02970297029702;Rank_Total 814_Human- und Zahnmedizin;ISCO_3Steller
+17;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Sorgfalt;überfachlich;1.9801980198019749;Rank_Total 814_Human- und Zahnmedizin;ISCO_3Steller
+18;Soziale Kompetenzen;überfachlich;KOMPETENZ_LVL_1;Interdisziplinäre Zusammenarbeit;überfachlich;53.46534653465346;Rank_Total 814_Human- und Zahnmedizin;ISCO_3Steller
+19;Kognitive Fähigkeiten und Problemlösungskompetenzen;überfachlich;KOMPETENZ_LVL_1;Neugier;überfachlich;27.72277227722772;Rank_Total 814_Human- und Zahnmedizin;ISCO_3Steller
+20;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Kollegialität;überfachlich;25.742574257425744;Rank_Total 814_Human- und Zahnmedizin;ISCO_3Steller
+21;Kognitive Fähigkeiten und Problemlösungskompetenzen;überfachlich;KOMPETENZ_LVL_1;Entscheidungsfähigkeit;überfachlich;13.861386138613867;Rank_Total 814_Human- und Zahnmedizin;ISCO_3Steller
+22;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Flexibilität;überfachlich;6.930693069306926;Rank_Total 814_Human- und Zahnmedizin;ISCO_3Steller
+23;Kognitive Fähigkeiten und Problemlösungskompetenzen;überfachlich;KOMPETENZ_LVL_1;Schnelle Auffassungsgabe;überfachlich;4.950495049504951;Rank_Total 814_Human- und Zahnmedizin;ISCO_3Steller
+24;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Dynamische Persönlichkeit;überfachlich;0.9900990099009874;Rank_Total 814_Human- und Zahnmedizin;ISCO_3Steller
+0;Gesundheit, Körper- und Schönheitspflege;Gesundheits- und Krankenpflege;KOMPETENZ_LVL_1;Kinder- und Jugendlichenpflege;Gesundheit, Körper- und Schönheitspflege;97.67441860465117;Rank_Total 813_Gesundh._Krankenpfl._Rettungsd.Geburtsh.;ISCO_3Steller
+1;Gesundheit, Körper- und Schönheitspflege;Gesundheits- und Krankenpflege;KOMPETENZ_LVL_3;Intensivpflege;Gesundheit, Körper- und Schönheitspflege;95.34883720930233;Rank_Total 813_Gesundh._Krankenpfl._Rettungsd.Geburtsh.;ISCO_3Steller
+2;Gesundheit, Körper- und Schönheitspflege;Gesundheits- und Krankenpflege;KOMPETENZ_LVL_1;Krankenpflege;Gesundheit, Körper- und Schönheitspflege;95.34883720930233;Rank_Total 813_Gesundh._Krankenpfl._Rettungsd.Geburtsh.;ISCO_3Steller
+3;Gesundheit, Körper- und Schönheitspflege;Gesundheits- und Krankenpflege;KOMPETENZ_LVL_3;Anästhesiepflege;Gesundheit, Körper- und Schönheitspflege;94.18604651162791;Rank_Total 813_Gesundh._Krankenpfl._Rettungsd.Geburtsh.;ISCO_3Steller
+4;Gesundheit, Körper- und Schönheitspflege;Gesundheits- und Krankenpflege;KOMPETENZ_LVL_2;Pflegedokumentation;Gesundheit, Körper- und Schönheitspflege;93.02325581395348;Rank_Total 813_Gesundh._Krankenpfl._Rettungsd.Geburtsh.;ISCO_3Steller
+5;Gesundheit, Körper- und Schönheitspflege;Gesundheits- und Krankenpflege;KOMPETENZ_LVL_1;Altenpflege;Gesundheit, Körper- und Schönheitspflege;91.86046511627907;Rank_Total 813_Gesundh._Krankenpfl._Rettungsd.Geburtsh.;ISCO_3Steller
+6;Gesundheit, Körper- und Schönheitspflege;Gesundheits- und Krankenpflege;KOMPETENZ_LVL_2;Blutdruck messen;Gesundheit, Körper- und Schönheitspflege;90.69767441860465;Rank_Total 813_Gesundh._Krankenpfl._Rettungsd.Geburtsh.;ISCO_3Steller
+7;Gesundheit, Körper- und Schönheitspflege;Gesundheits- und Krankenpflege;KOMPETENZ_LVL_1;Pflegemanagement;Gesundheit, Körper- und Schönheitspflege;84.88372093023256;Rank_Total 813_Gesundh._Krankenpfl._Rettungsd.Geburtsh.;ISCO_3Steller
+8;Gesundheit, Körper- und Schönheitspflege;Gesundheits- und Krankenpflege;KOMPETENZ_LVL_3;Ambulanzpflege;Gesundheit, Körper- und Schönheitspflege;87.20930232558139;Rank_Total 813_Gesundh._Krankenpfl._Rettungsd.Geburtsh.;ISCO_3Steller
+9;Soziales, Haushalt, Erziehung, Bildung, Religion;Kenntnisse in Sozialarbeit und -pädagogik;KOMPETENZ_LVL_2;Angehörigenberatung;Soziales, Haushalt, Erziehung, Bildung, Religion;88.37209302325581;Rank_Total 813_Gesundh._Krankenpfl._Rettungsd.Geburtsh.;ISCO_3Steller
+10;Soziales, Haushalt, Erziehung, Bildung, Religion;Kenntnisse in Sozialarbeit und -pädagogik;KOMPETENZ_LVL_1;Betreuung von pflegebedürftigen Menschen;Soziales, Haushalt, Erziehung, Bildung, Religion;86.04651162790698;Rank_Total 813_Gesundh._Krankenpfl._Rettungsd.Geburtsh.;ISCO_3Steller
+11;Bereichsübergreifende Kompetenzen;sonstige;KOMPETENZ_LVL_2;Branchenkenntnisse Sozialbereich und Haushaltsführung;Bereichsübergreifende Kompetenzen;83.72093023255815;Rank_Total 813_Gesundh._Krankenpfl._Rettungsd.Geburtsh.;ISCO_3Steller
+12;Gesundheit, Körper- und Schönheitspflege;sonstige;KOMPETENZ_LVL_2;Anästhesiologie;Gesundheit, Körper- und Schönheitspflege;89.53488372093022;Rank_Total 813_Gesundh._Krankenpfl._Rettungsd.Geburtsh.;ISCO_3Steller
+13;Soziale Kompetenzen;überfachlich;KOMPETENZ_LVL_1;Verhandlungsstärke;überfachlich;11.627906976744185;Rank_Total 813_Gesundh._Krankenpfl._Rettungsd.Geburtsh.;ISCO_3Steller
+14;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Geduld;überfachlich;82.55813953488372;Rank_Total 813_Gesundh._Krankenpfl._Rettungsd.Geburtsh.;ISCO_3Steller
+15;Körperliche Eigenschaften;überfachlich;KOMPETENZ_LVL_1;Körperliche Ausdauer;überfachlich;72.09302325581396;Rank_Total 813_Gesundh._Krankenpfl._Rettungsd.Geburtsh.;ISCO_3Steller
+16;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Flexibilität;überfachlich;53.48837209302325;Rank_Total 813_Gesundh._Krankenpfl._Rettungsd.Geburtsh.;ISCO_3Steller
+17;Soziale Kompetenzen;überfachlich;KOMPETENZ_LVL_1;Dokumentation;überfachlich;46.51162790697674;Rank_Total 813_Gesundh._Krankenpfl._Rettungsd.Geburtsh.;ISCO_3Steller
+18;Soziale Kompetenzen;überfachlich;KOMPETENZ_LVL_1;Interdisziplinäre Zusammenarbeit;überfachlich;41.860465116279066;Rank_Total 813_Gesundh._Krankenpfl._Rettungsd.Geburtsh.;ISCO_3Steller
+19;Kognitive Fähigkeiten und Problemlösungskompetenzen;überfachlich;KOMPETENZ_LVL_1;Neugier;überfachlich;36.04651162790697;Rank_Total 813_Gesundh._Krankenpfl._Rettungsd.Geburtsh.;ISCO_3Steller
+20;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Sorgfalt;überfachlich;34.883720930232556;Rank_Total 813_Gesundh._Krankenpfl._Rettungsd.Geburtsh.;ISCO_3Steller
+21;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Dynamische Persönlichkeit;überfachlich;26.74418604651163;Rank_Total 813_Gesundh._Krankenpfl._Rettungsd.Geburtsh.;ISCO_3Steller
+22;Soziale Kompetenzen;überfachlich;KOMPETENZ_LVL_1;Gerechtigkeitssinn;überfachlich;25.581395348837205;Rank_Total 813_Gesundh._Krankenpfl._Rettungsd.Geburtsh.;ISCO_3Steller
+23;Kognitive Fähigkeiten und Problemlösungskompetenzen;überfachlich;KOMPETENZ_LVL_1;Entscheidungsfähigkeit;überfachlich;23.25581395348837;Rank_Total 813_Gesundh._Krankenpfl._Rettungsd.Geburtsh.;ISCO_3Steller
+24;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Pünktlichkeit;überfachlich;3.4883720930232442;Rank_Total 813_Gesundh._Krankenpfl._Rettungsd.Geburtsh.;ISCO_3Steller
+0;Gesundheit, Körper- und Schönheitspflege;Medizinische Funktionsdiagnostik;KOMPETENZ_LVL_3;Durchführung von CT-Untersuchungen;Gesundheit, Körper- und Schönheitspflege;84.15841584158416;Rank_Total 812_Medizinisches Laboratorium;ISCO_3Steller
+1;Gesundheit, Körper- und Schönheitspflege;Medizinische Funktionsdiagnostik;KOMPETENZ_LVL_2;Radiologische Diagnostik;Gesundheit, Körper- und Schönheitspflege;94.05940594059406;Rank_Total 812_Medizinisches Laboratorium;ISCO_3Steller
+2;Gesundheit, Körper- und Schönheitspflege;Medizinische Funktionsdiagnostik;KOMPETENZ_LVL_1;Labordiagnostik;Gesundheit, Körper- und Schönheitspflege;87.12871287128712;Rank_Total 812_Medizinisches Laboratorium;ISCO_3Steller
+3;Gesundheit, Körper- und Schönheitspflege;Medizinisches Fachwissen;KOMPETENZ_LVL_2;Radiologie;Gesundheit, Körper- und Schönheitspflege;97.02970297029702;Rank_Total 812_Medizinisches Laboratorium;ISCO_3Steller
+4;Gesundheit, Körper- und Schönheitspflege;Medizinisches Fachwissen;KOMPETENZ_LVL_3;Audiometrie;Gesundheit, Körper- und Schönheitspflege;95.04950495049505;Rank_Total 812_Medizinisches Laboratorium;ISCO_3Steller
+5;Gesundheit, Körper- und Schönheitspflege;Medizinisches Fachwissen;KOMPETENZ_LVL_3;Neuroradiologie;Gesundheit, Körper- und Schönheitspflege;88.11881188118812;Rank_Total 812_Medizinisches Laboratorium;ISCO_3Steller
+6;Gesundheit, Körper- und Schönheitspflege;Medizinisches Fachwissen;KOMPETENZ_LVL_2;Nuklearmedizin;Gesundheit, Körper- und Schönheitspflege;90.0990099009901;Rank_Total 812_Medizinisches Laboratorium;ISCO_3Steller
+7;Wissenschaft und Forschung;sonstige;KOMPETENZ_LVL_2;Mikrobiologie;Wissenschaft und Forschung;98.01980198019803;Rank_Total 812_Medizinisches Laboratorium;ISCO_3Steller
+8;Wissenschaft und Forschung;sonstige;KOMPETENZ_LVL_2;Molekularbiologie;Wissenschaft und Forschung;89.10891089108911;Rank_Total 812_Medizinisches Laboratorium;ISCO_3Steller
+9;Chemie, Kunststoffe, Rohstoffe;sonstige;KOMPETENZ_LVL_1;Instrumentelle Analytik;Chemie, Kunststoffe, Rohstoffe;86.13861386138613;Rank_Total 812_Medizinisches Laboratorium;ISCO_3Steller
+10;Bereichsübergreifende Kompetenzen;sonstige;KOMPETENZ_LVL_2;Titration;Bereichsübergreifende Kompetenzen;92.07920792079207;Rank_Total 812_Medizinisches Laboratorium;ISCO_3Steller
+11;Bereichsübergreifende Kompetenzen;sonstige;KOMPETENZ_LVL_1;Labortechnik;Bereichsübergreifende Kompetenzen;93.06930693069307;Rank_Total 812_Medizinisches Laboratorium;ISCO_3Steller
+12;Lebensmittelproduktion, Gartenbau, Land- und Forstwirtschaft;sonstige;KOMPETENZ_LVL_3;Lebensmitteluntersuchung;Lebensmittelproduktion, Gartenbau, Land- und Forstwirtschaft;95.04950495049505;Rank_Total 812_Medizinisches Laboratorium;ISCO_3Steller
+13;Bereichsübergreifende Kompetenzen;sonstige;KOMPETENZ_LVL_2;Probenvorbereitung;Bereichsübergreifende Kompetenzen;91.08910891089108;Rank_Total 812_Medizinisches Laboratorium;ISCO_3Steller
+14;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Beharrlichkeit;überfachlich;3.960396039603964;Rank_Total 812_Medizinisches Laboratorium;ISCO_3Steller
+15;Soziale Kompetenzen;überfachlich;KOMPETENZ_LVL_1;Dokumentation;überfachlich;44.554455445544555;Rank_Total 812_Medizinisches Laboratorium;ISCO_3Steller
+16;Kognitive Fähigkeiten und Problemlösungskompetenzen;überfachlich;KOMPETENZ_LVL_1;Schnelle Auffassungsgabe;überfachlich;38.613861386138616;Rank_Total 812_Medizinisches Laboratorium;ISCO_3Steller
+17;Soziale Kompetenzen;überfachlich;KOMPETENZ_LVL_1;Interdisziplinäre Zusammenarbeit;überfachlich;36.633663366336634;Rank_Total 812_Medizinisches Laboratorium;ISCO_3Steller
+18;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Sorgfalt;überfachlich;34.65346534653466;Rank_Total 812_Medizinisches Laboratorium;ISCO_3Steller
+19;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Qualitätsbewusstsein;überfachlich;26.73267326732673;Rank_Total 812_Medizinisches Laboratorium;ISCO_3Steller
+20;Soziale Kompetenzen;überfachlich;KOMPETENZ_LVL_1;Gerechtigkeitssinn;überfachlich;22.772277227722768;Rank_Total 812_Medizinisches Laboratorium;ISCO_3Steller
+21;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Flexibilität;überfachlich;16.83168316831683;Rank_Total 812_Medizinisches Laboratorium;ISCO_3Steller
+22;Kognitive Fähigkeiten und Problemlösungskompetenzen;überfachlich;KOMPETENZ_LVL_1;Zeitmanagement;überfachlich;14.851485148514854;Rank_Total 812_Medizinisches Laboratorium;ISCO_3Steller
+23;Kognitive Fähigkeiten und Problemlösungskompetenzen;überfachlich;KOMPETENZ_LVL_1;Entscheidungsfähigkeit;überfachlich;12.87128712871288;Rank_Total 812_Medizinisches Laboratorium;ISCO_3Steller
+24;Soziale Kompetenzen;überfachlich;KOMPETENZ_LVL_1;Verhandlungsstärke;überfachlich;0.0;Rank_Total 812_Medizinisches Laboratorium;ISCO_3Steller
+0;Gesundheit, Körper- und Schönheitspflege;Körper- und Schönheitspflegekenntnisse;KOMPETENZ_LVL_2;Podologie;Gesundheit, Körper- und Schönheitspflege;95.04950495049505;Rank_Total 811_Arzt- und Praxishilfe;ISCO_3Steller
+1;Gesundheit, Körper- und Schönheitspflege;Körper- und Schönheitspflegekenntnisse;KOMPETENZ_LVL_2;Pediküre;Gesundheit, Körper- und Schönheitspflege;94.05940594059406;Rank_Total 811_Arzt- und Praxishilfe;ISCO_3Steller
+2;Gesundheit, Körper- und Schönheitspflege;Medizinisches Fachwissen;KOMPETENZ_LVL_2;Zahnmedizin;Gesundheit, Körper- und Schönheitspflege;98.01980198019803;Rank_Total 811_Arzt- und Praxishilfe;ISCO_3Steller
+3;Gesundheit, Körper- und Schönheitspflege;Medizinisches Fachwissen;KOMPETENZ_LVL_3;Desinfektion gemäß Infektionsschutzgesetz;Gesundheit, Körper- und Schönheitspflege;88.11881188118812;Rank_Total 811_Arzt- und Praxishilfe;ISCO_3Steller
+4;Gesundheit, Körper- und Schönheitspflege;Medizinisches Fachwissen;KOMPETENZ_LVL_3;Dialyse;Gesundheit, Körper- und Schönheitspflege;89.10891089108911;Rank_Total 811_Arzt- und Praxishilfe;ISCO_3Steller
+5;Gesundheit, Körper- und Schönheitspflege;Medizinisches Fachwissen;KOMPETENZ_LVL_1;Venenpunktion;Gesundheit, Körper- und Schönheitspflege;90.0990099009901;Rank_Total 811_Arzt- und Praxishilfe;ISCO_3Steller
+6;Gesundheit, Körper- und Schönheitspflege;Medizinisches Fachwissen;KOMPETENZ_LVL_1;Allgemeinmedizin;Gesundheit, Körper- und Schönheitspflege;91.08910891089108;Rank_Total 811_Arzt- und Praxishilfe;ISCO_3Steller
+7;Gesundheit, Körper- und Schönheitspflege;Medizinisches Fachwissen;KOMPETENZ_LVL_2;Augenheilkunde;Gesundheit, Körper- und Schönheitspflege;86.13861386138613;Rank_Total 811_Arzt- und Praxishilfe;ISCO_3Steller
+8;Gesundheit, Körper- und Schönheitspflege;Medizinisches Fachwissen;KOMPETENZ_LVL_1;Patientenbetreuung;Gesundheit, Körper- und Schönheitspflege;93.06930693069307;Rank_Total 811_Arzt- und Praxishilfe;ISCO_3Steller
+9;Gesundheit, Körper- und Schönheitspflege;Medizinisches Fachwissen;KOMPETENZ_LVL_2;Patientenaufnahme;Gesundheit, Körper- und Schönheitspflege;97.02970297029702;Rank_Total 811_Arzt- und Praxishilfe;ISCO_3Steller
+10;Gesundheit, Körper- und Schönheitspflege;Medizinisches Fachwissen;KOMPETENZ_LVL_3;Orthoptik;Gesundheit, Körper- und Schönheitspflege;92.07920792079207;Rank_Total 811_Arzt- und Praxishilfe;ISCO_3Steller
+11;Gesundheit, Körper- und Schönheitspflege;sonstige;KOMPETENZ_LVL_2;Blutabnahme;Gesundheit, Körper- und Schönheitspflege;96.03960396039604;Rank_Total 811_Arzt- und Praxishilfe;ISCO_3Steller
+12;Gesundheit, Körper- und Schönheitspflege;sonstige;KOMPETENZ_LVL_1;ELGA - Elektronische Gesundheitsakte;Gesundheit, Körper- und Schönheitspflege;87.12871287128712;Rank_Total 811_Arzt- und Praxishilfe;ISCO_3Steller
+13;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Pünktlichkeit;überfachlich;9.900990099009903;Rank_Total 811_Arzt- und Praxishilfe;ISCO_3Steller
+14;Kognitive Fähigkeiten und Problemlösungskompetenzen;überfachlich;KOMPETENZ_LVL_1;Entscheidungsfähigkeit;überfachlich;14.851485148514854;Rank_Total 811_Arzt- und Praxishilfe;ISCO_3Steller
+15;Kognitive Fähigkeiten und Problemlösungskompetenzen;überfachlich;KOMPETENZ_LVL_1;Neugier;überfachlich;18.811881188118818;Rank_Total 811_Arzt- und Praxishilfe;ISCO_3Steller
+16;Soziale Kompetenzen;überfachlich;KOMPETENZ_LVL_1;Dokumentation;überfachlich;29.702970297029708;Rank_Total 811_Arzt- und Praxishilfe;ISCO_3Steller
+17;Soziale Kompetenzen;überfachlich;KOMPETENZ_LVL_1;Interdisziplinäre Zusammenarbeit;überfachlich;31.683168316831683;Rank_Total 811_Arzt- und Praxishilfe;ISCO_3Steller
+18;Körperliche Eigenschaften;überfachlich;KOMPETENZ_LVL_1;Körperliche Ausdauer;überfachlich;36.633663366336634;Rank_Total 811_Arzt- und Praxishilfe;ISCO_3Steller
+19;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Flexibilität;überfachlich;43.56435643564357;Rank_Total 811_Arzt- und Praxishilfe;ISCO_3Steller
+20;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Geduld;überfachlich;44.554455445544555;Rank_Total 811_Arzt- und Praxishilfe;ISCO_3Steller
+21;Soziale Kompetenzen;überfachlich;KOMPETENZ_LVL_1;Höflichkeit;überfachlich;52.475247524752476;Rank_Total 811_Arzt- und Praxishilfe;ISCO_3Steller
+22;Soziale Kompetenzen;überfachlich;KOMPETENZ_LVL_1;Verhandlungsstärke;überfachlich;0.9900990099009874;Rank_Total 811_Arzt- und Praxishilfe;ISCO_3Steller
+23;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Sorgfalt;überfachlich;33.66336633663366;Rank_Total 811_Arzt- und Praxishilfe;ISCO_3Steller
+24;Persönliche Einstellungen und Werte;überfachlich;KOMPETENZ_LVL_1;Qualitätsbewusstsein;überfachlich;0.0;Rank_Total 811_Arzt- und Praxishilfe;ISCO_3Steller
