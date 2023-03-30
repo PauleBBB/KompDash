@@ -303,7 +303,7 @@ with st.container():
     st.altair_chart(alt_chart, theme=None, use_container_width=True)
     
     fig = create_chart(load_data_isco_komp_data(), "Rank_Total 825_Medizin-_Orthopädie- und Rehatechnik")
-    st.plotly_chart(fig, use_container_width=True, height=800)
+    st.pyplot(fig, use_container_width=True, height=800)
 
 
 ############test
