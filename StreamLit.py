@@ -6,7 +6,7 @@ st.set_page_config(layout="wide")
 import requests
 import pandas as pd
 import numpy as np
-#import plotly.express as px
+import plotly.express as pxe
 import plotly as px
 import streamlit as st
 
@@ -123,7 +123,7 @@ with st.container():
         )
 
 
-    fig = px.express.choropleth(
+    fig = pxe.choropleth(
         df,
         geojson=polygons,
         locations="Relevanz",
