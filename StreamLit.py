@@ -188,8 +188,9 @@ def create_chart(df, beruf):
     plt.text(0.5, 0.5, beruf, horizontalalignment='center', color="#333333", fontsize=20, fontweight="bold",
              verticalalignment='center', transform=ax.transAxes)
 
-    plt.tight_layout()
-    plt.show()
+    #plt.tight_layout()
+    #plt.show()
+    return fig
 
 
 
