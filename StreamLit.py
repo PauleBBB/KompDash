@@ -159,6 +159,7 @@ def load_data_isco_komp_data():
 def create_chart(df, beruf):
     import matplotlib.pyplot as plt
     import numpy as np
+    df = df[df["Beruf"]==beruf]
     import pandas as pd
     # Ensures reproducibility of random numbers
     #rng = np.random.default_rng(123)
@@ -298,6 +299,7 @@ def create_chart(df, beruf):
              verticalalignment='center', transform=ax.transAxes)
 
     plt.tight_layout()
+    plt.show()
 
 
 with st.container():
