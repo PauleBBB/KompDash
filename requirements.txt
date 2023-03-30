@@ -1,3 +1,4 @@
 altair
 vega_datasets
 plotly.express
+matplotlib
